@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '34873'
     url: http://www.gutenberg.org/2009/agents/34873
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30884#Step-IV
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-01-07'
 gutenberg_type: Text
