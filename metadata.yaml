@@ -1,0 +1,37 @@
+_repo: Step-IV_30884
+_version: 0.1.0
+alternative_title:
+- Step 4
+- Step Four
+contributor:
+  illustrator:
+    agent_name: Varga, Mel
+    gutenberg_agent_id: '33941'
+    url: http://www.gutenberg.org/2009/agents/33941
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brown, Rosel George
+    birthdate: 1926
+    deathdate: 1967
+    gutenberg_agent_id: '34873'
+    url: http://www.gutenberg.org/2009/agents/34873
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30884'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: Step IV
+url: http://www.gutenberg.org/ebooks/30884
